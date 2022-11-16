@@ -43,9 +43,6 @@ table{
     margin-left: 5%;
     margin-top: 2%;
     color: aliceblue;
-    border-spacing: 5px;
-    caption-side: top;
-    empty-cells: hide;
 }
 
 .tr_one{
