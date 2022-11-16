@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(19, 18, 18);
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    color: aliceblue;
+}
+
+blockquote{
+    font-size: 30px;
+    margin-left: 5%;
+    background-color: rgb(182, 162, 181);
+    border-left: solid 12px purple;
+    padding: 2%;
+    color: rgb(025, 25, 25);
+}
+
+img{
+    margin-left: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5%;
+}
+
+h2{
+    margin-left: 5%;
+    font-size: 30px;
+    color: aliceblue;
+}
+
+p{
+    margin-left: 5%;
+    color: aliceblue;
+}
+
+table{
+    margin-left: 5%;
+    margin-top: 2%;
+    color: aliceblue;
+    border-spacing: 5px;
+    caption-side: top;
+    empty-cells: hide;
+}
+
+.tr_one{
+    background-color: rgb(107, 18, 123);
+    text-align: center;
+}
+
+.tr_two{
+    background-color: rgb(95, 95, 95);
+    text-align: center;
+}
+
+ul{
+    color: aliceblue;
+}
+
+.ul_checkbox{
+    list-style-type: none;
+}
+
+.ul_hobbies{
+    margin-left: 5%;
+}
+h3{
+    margin-left: 5%; 
+    color: aliceblue; 
+}
+footer{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+a{
+    color: aliceblue;
+}
+
+a:hover{
+    color: rgb(250, 186, 242);
+}
