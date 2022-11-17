@@ -2,6 +2,8 @@
 
 In this repository i experiment with the HTML and CSS language.
 
+![](capture.png)
+
 ---
 
 Project completed
