@@ -12,7 +12,7 @@ This repository was created and edited on November 16, 2022. This project is an 
 
 ## How to install the repository locally
 
-create a local working folder
-open Git Bash
-clone the repository
-now you can work on the file
+1. create a local working folder
+2. open Git Bash
+3. clone the repository
+4. now you can work on the file
